@@ -1,6 +1,6 @@
 # Project 2: Open Data App - an RShiny app development project
 
-### [Fire & Rescue NYC](https://guanzy.shinyapps.io/trafficcare2/)
+### [Fire & Rescue NYC](https://jz2891.shinyapps.io/fire__rescue_nyc/)
 
 ![screenshot](doc/shinyapp1.png)
 
